@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**sakib-rone66/sakib-rone66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science Engineer focused on building secure, scalable, and intelligent systems.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+🔹 Passionate about Cybersecurity, Embedded Systems & IoT 
+🔹 Focused on designing efficient and scalable system architectures  
+🔹 Building real-world solutions through hardware-software integration  
+🔹 Continuously learning and exploring advanced technologies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Focus
+- Cybersecurity & System Security
+- Embedded Systems (ESP32, Microcontrollers)
+- IoT System Development    
+- System Design & Architecture  
+- MQTT, REST APIs, Real-Time Data Systems  
+
+## 📌 Current Focus
+- Developing IoT-based smart systems  
+- Strengthening cybersecurity knowledge  
+- Building production-ready system designs  
+
+## 📫 Connect
+- GitHub: (https://github.com/sakib-rone66)
+- LinkedIn: YourLinkedInLink
+- Instagram: https://www.instagram.com/r_talukder_66/
+- Facebook: https://www.facebook.com/r.talukder.66/
+- X: https://x.com/r_talukder_66
