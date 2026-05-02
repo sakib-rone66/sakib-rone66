@@ -22,7 +22,7 @@ I’m a Computer Science Engineer focused on building secure, scalable, and inte
 
 ## 📫 Connect
 - GitHub: (https://github.com/sakib-rone66)
-- LinkedIn: YourLinkedInLink
+- LinkedIn: (https://www.linkedin.com/in/r-talukder66/)
 - Instagram: https://www.instagram.com/r_talukder_66/
 - Facebook: https://www.facebook.com/r.talukder.66/
 - X: https://x.com/r_talukder_66
