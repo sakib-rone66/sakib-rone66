@@ -1,21 +1,172 @@
-# 💫 About Me:
-### Hi there 👋 I'm Sakib<br><br>I am an aspiring **Software Engineer & Web/Mobile App Developer** who loves bridging the gap between clean code and reliable infrastructure. <br><br>💫 The Journey:<br>Current Focus — Architecting modern web ecosystems using React, Next.js, Node.js, and Express.js. <br>Evolution — Continuously refining my skills across the entire Frontend, Backend, and Mobile App development lifecycle.<br>Philosophy — Crafting elegant, high-performance software driven by intuitive design and clean, scalable code as my lifetime pursuit.<br>Ultimate Goal — Becoming a master Full-Stack & Mobile Software Engineer who delivers world-class user experiences.<br>Drive — Progressing relentlessly through daily execution, deep continuous learning, and practical building.
+<div align="center">
 
+# 👋 Hi, I'm Md. Sakib Al-Hasan
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/r_talukder_66) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/r.talukder.66) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r_talukder_66) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/r-talukder66) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/r_talukder_66) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/r_talukder_66) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info.sakib.bluesec@gmail.com) 
+### Software Developer | Full-Stack Developer | Backend Developer
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sakib-rone66&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sakib-rone66&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sakib-rone66&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Building practical, secure, and scalable software solutions across **Web, Backend & Mobile**.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+📍 Dhaka, Bangladesh
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=sakib-rone66&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a Computer Science & Engineering graduate and Software Developer focused on building practical, real-world applications across web, backend, database, and mobile platforms.
+
+I completed my **Software Development Internship at Abdul Monem Ltd (Igloo)**, where I worked on an enterprise **Asset Management System** for commercial freezer operations.
+
+My experience includes building responsive web interfaces, REST APIs, database-driven applications, authentication and authorization systems, role-based workflows, and field-focused Android applications.
+
+I enjoy transforming real requirements into structured software solutions and continuously improving my skills through hands-on development.
+
+- 🔭 Focused on **Software Development, Full-Stack & Backend Development**
+- 💻 Building with **JavaScript, React, Node.js & Express.js**
+- 🗄️ Working with **MongoDB & Mongoose**
+- 📱 Developing mobile applications with **React Native & Expo**
+- 🔐 Experienced with **REST APIs, JWT Authentication & Role-Based Authorization**
+- 🧠 Interested in **clean application logic, problem-solving & scalable software**
+- 🌱 Continuously learning and improving through practical development
+- 🎯 Open to opportunities as a **Software Developer, Full-Stack Developer or Backend Developer**
+
+---
+
+## 💼 Professional Experience
+
+### Software Development Intern
+**Abdul Monem Ltd (Igloo) — MIS, Software Development**  
+*June 2026 – September 2026*
+
+Worked across the software development lifecycle while developing an enterprise asset management solution spanning web, backend, database, and Android mobile platforms.
+
+### Key Contributions
+
+- Developed full-stack features using **React, Node.js, Express.js and MongoDB**
+- Designed and integrated **REST APIs**
+- Implemented **JWT authentication and role-based authorization**
+- Built database operations and validation using **MongoDB & Mongoose**
+- Developed a field-focused Android application using **React Native & Expo**
+- Integrated web and mobile clients with a shared backend architecture
+- Tested and debugged API-driven workflows using **Postman**
+- Maintained source code and releases using **Git & GitHub**
+- Worked from requirements analysis through implementation, testing and deployment
+
+---
+
+## 🚀 Flagship Project
+
+### 🧊 Igloo Asset Management System
+
+**Full-Stack Web + Mobile Asset Management Platform**
+
+An enterprise software solution developed during my Software Development internship at **Abdul Monem Ltd (Igloo)** to support commercial freezer asset operations.
+
+The platform connects administrative users, field teams, outlets and assets through a centralized backend architecture.
+
+### ✨ Key Features
+
+- Asset registration & lifecycle management
+- Outlet registration & asset assignment
+- Asset Identification Number (AIN) management
+- QR-enabled asset identification
+- New & existing asset onboarding
+- Asset verification & approval workflows
+- Verification mapping & history tracking
+- Rejection, correction & resubmission workflows
+- Asset transfer, return, repair & disposal
+- GPS-supported field check-ins
+- User & access-right management
+- Role-based operational workflows
+
+### 👥 Supported Roles
+
+`System Admin` • `ASO` • `TSO` • `TSM` • `Technician`
+
+### 🛠️ Technology
+
+`React` • `JavaScript` • `Node.js` • `Express.js` • `MongoDB` • `Mongoose` • `REST API` • `JWT` • `React Native` • `Expo`
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite&logoColor=646CFF)
+
+### Backend & API
+
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000?style=for-the-badge&logo=fastapi&logoColor=009688)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Mongoose](https://img.shields.io/badge/Mongoose-000?style=for-the-badge&logo=mongoose&logoColor=880000)
+
+### Mobile
+
+![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000?style=for-the-badge&logo=expo&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+
+---
+
+## 📌 Featured Projects
+
+### 🧊 Igloo Asset Management System
+Enterprise full-stack web + mobile platform for commercial freezer asset management, verification workflows and field operations.
+
+**Tech:** React • Node.js • Express.js • MongoDB • React Native • Expo • REST API
+
+---
+
+### ⚡ IoT-Based Energy Meter Monitoring System
+IoT-based monitoring solution designed to capture electricity usage and transmit data to a cloud platform for continuous remote monitoring.
+
+**Focus:** IoT • Embedded Systems • Cloud Monitoring • Real-Time Data
+
+---
+
+### 🚆 RailBondhu
+Web-based service platform designed to help train passengers request food and medicine from vendors near upcoming railway stops.
+
+**Focus:** Web Development • Database-Driven Application • Problem Solving
+
+---
+
+### 🌍 Real-Time Air Quality Monitoring System
+IoT-based environmental monitoring solution designed to continuously measure pollutants and transmit environmental data for remote monitoring.
+
+**Focus:** IoT • Embedded Systems • Cloud Monitoring • Real-Time Data
+
+---
+
+## 💡 What I Focus On
+
+```text
+Web Applications        ███████████████████░
+Backend Development     ███████████████████░
+REST API Development    ██████████████████░░
+Database Development    ██████████████████░░
+Mobile Development      █████████████████░░░
+Problem Solving         ███████████████████░
